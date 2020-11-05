@@ -1,0 +1,13 @@
+C:\Users\poker\source\repos\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+C:\Users\poker\source\repos\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+C:\Users\poker\source\repos\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+C:\Users\poker\source\repos\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+C:\Users\poker\source\repos\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+C:\Users\poker\source\repos\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+C:\Users\poker\source\repos\Animal\obj\Debug\netcoreapp3.1\Animal.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+C:\Users\poker\source\repos\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+C:\Users\poker\source\repos\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+C:\Users\poker\source\repos\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache

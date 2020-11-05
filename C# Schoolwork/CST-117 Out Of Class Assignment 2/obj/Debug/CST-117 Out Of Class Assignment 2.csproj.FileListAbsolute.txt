@@ -1,0 +1,9 @@
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\bin\Debug\CST-117 Out Of Class Assignment 2.exe.config
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\bin\Debug\CST-117 Out Of Class Assignment 2.exe
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\bin\Debug\CST-117 Out Of Class Assignment 2.pdb
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\obj\Debug\CST-117 Out Of Class Assignment 2.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\obj\Debug\CST_117_Out_Of_Class_Assignment_2.Shapes.resources
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\obj\Debug\CST_117_Out_Of_Class_Assignment_2.Properties.Resources.resources
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\obj\Debug\CST-117 Out Of Class Assignment 2.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\obj\Debug\CST-117 Out Of Class Assignment 2.exe
+C:\Users\poker\source\repos\CST-117 Out Of Class Assignment 2\obj\Debug\CST-117 Out Of Class Assignment 2.pdb

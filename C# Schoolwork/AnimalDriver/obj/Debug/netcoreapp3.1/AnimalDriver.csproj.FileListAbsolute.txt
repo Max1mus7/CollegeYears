@@ -1,0 +1,17 @@
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\Animal.exe
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\AnimalDriver.exe
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\AnimalDriver.deps.json
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\AnimalDriver.runtimeconfig.json
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\AnimalDriver.runtimeconfig.dev.json
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\AnimalDriver.dll
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\AnimalDriver.pdb
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\Animal.dll
+C:\Users\poker\source\repos\AnimalDriver\bin\Debug\netcoreapp3.1\Animal.pdb
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.AssemblyInfo.cs
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.csproj.CopyComplete
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.dll
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.pdb
+C:\Users\poker\source\repos\AnimalDriver\obj\Debug\netcoreapp3.1\AnimalDriver.genruntimeconfig.cache

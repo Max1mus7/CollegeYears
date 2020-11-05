@@ -1,0 +1,12 @@
+C:\Users\poker\source\repos\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.exe
+C:\Users\poker\source\repos\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.deps.json
+C:\Users\poker\source\repos\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.json
+C:\Users\poker\source\repos\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.runtimeconfig.dev.json
+C:\Users\poker\source\repos\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\poker\source\repos\GetStartedDebugging\bin\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\poker\source\repos\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.AssemblyInfo.cs
+C:\Users\poker\source\repos\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.dll
+C:\Users\poker\source\repos\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.pdb
+C:\Users\poker\source\repos\GetStartedDebugging\obj\Debug\netcoreapp3.1\GetStartedDebugging.genruntimeconfig.cache

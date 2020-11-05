@@ -1,0 +1,10 @@
+C:\Users\poker\source\repos\PEO App2\bin\Debug\PEO App2.exe.config
+C:\Users\poker\source\repos\PEO App2\bin\Debug\PEO App2.exe
+C:\Users\poker\source\repos\PEO App2\bin\Debug\PEO App2.pdb
+C:\Users\poker\source\repos\PEO App2\obj\Debug\PEO App2.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\PEO App2\obj\Debug\PEO_App2.Form1.resources
+C:\Users\poker\source\repos\PEO App2\obj\Debug\PEO_App2.Properties.Resources.resources
+C:\Users\poker\source\repos\PEO App2\obj\Debug\PEO App2.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\PEO App2\obj\Debug\PEO App2.exe
+C:\Users\poker\source\repos\PEO App2\obj\Debug\PEO App2.pdb
+C:\Users\poker\source\repos\PEO App2\obj\Debug\PEO_App2.Form2.resources

@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DemoLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:DemoLibrary.DataAccess.LoadConnectionString(System.String)">
+            <summary>
+            Loads a connection string for Database
+            </summary>
+            <param name="name"></param>
+            <returns>Returns a string</returns>
+        </member>
+        <member name="M:DemoLibrary.SQLDataAccess.LoadData(System.String)">
+            <summary>
+            Load data into database
+            </summary>
+            <param name="sql"></param>
+        </member>
+    </members>
+</doc>

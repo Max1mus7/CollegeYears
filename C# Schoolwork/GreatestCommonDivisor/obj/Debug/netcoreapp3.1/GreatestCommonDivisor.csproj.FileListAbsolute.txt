@@ -1,0 +1,13 @@
+C:\Users\poker\source\repos\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.exe
+C:\Users\poker\source\repos\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.deps.json
+C:\Users\poker\source\repos\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.runtimeconfig.json
+C:\Users\poker\source\repos\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.runtimeconfig.dev.json
+C:\Users\poker\source\repos\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.dll
+C:\Users\poker\source\repos\GreatestCommonDivisor\bin\Debug\netcoreapp3.1\GreatestCommonDivisor.pdb
+C:\Users\poker\source\repos\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.AssemblyInfo.cs
+C:\Users\poker\source\repos\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.dll
+C:\Users\poker\source\repos\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.pdb
+C:\Users\poker\source\repos\GreatestCommonDivisor\obj\Debug\netcoreapp3.1\GreatestCommonDivisor.genruntimeconfig.cache

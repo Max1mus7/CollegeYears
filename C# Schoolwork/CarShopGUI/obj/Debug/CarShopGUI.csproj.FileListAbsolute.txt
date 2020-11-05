@@ -1,0 +1,13 @@
+C:\Users\poker\source\repos\CarShopGUI\bin\Debug\CarShopGUI.exe.config
+C:\Users\poker\source\repos\CarShopGUI\bin\Debug\CarShopGUI.exe
+C:\Users\poker\source\repos\CarShopGUI\bin\Debug\CarShopGUI.pdb
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.Properties.Resources.resources
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.exe
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.pdb
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.Form1.resources
+C:\Users\poker\source\repos\CarShopGUI\bin\Debug\CarClassLibrary.dll
+C:\Users\poker\source\repos\CarShopGUI\bin\Debug\CarClassLibrary.pdb
+C:\Users\poker\source\repos\CarShopGUI\obj\Debug\CarShopGUI.csproj.CopyComplete

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animal", "Animal.csproj", "{0EE96974-A939-4671-BECE-CF3B2DBB5FFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalDriver", "..\AnimalDriver\AnimalDriver.csproj", "{CC70F073-D242-45FE-B2F3-0915933CBF2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EE96974-A939-4671-BECE-CF3B2DBB5FFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE96974-A939-4671-BECE-CF3B2DBB5FFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE96974-A939-4671-BECE-CF3B2DBB5FFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE96974-A939-4671-BECE-CF3B2DBB5FFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC70F073-D242-45FE-B2F3-0915933CBF2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC70F073-D242-45FE-B2F3-0915933CBF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC70F073-D242-45FE-B2F3-0915933CBF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC70F073-D242-45FE-B2F3-0915933CBF2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFE1A9D6-F071-4780-B8FD-B6B892082647}
+	EndGlobalSection
+EndGlobal

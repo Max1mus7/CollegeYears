@@ -1,0 +1,15 @@
+C:\Users\poker\source\repos\SumProject\bin\Debug\netcoreapp3.1\SumProject.exe
+C:\Users\poker\source\repos\SumProject\bin\Debug\netcoreapp3.1\SumProject.deps.json
+C:\Users\poker\source\repos\SumProject\bin\Debug\netcoreapp3.1\SumProject.runtimeconfig.json
+C:\Users\poker\source\repos\SumProject\bin\Debug\netcoreapp3.1\SumProject.runtimeconfig.dev.json
+C:\Users\poker\source\repos\SumProject\bin\Debug\netcoreapp3.1\SumProject.dll
+C:\Users\poker\source\repos\SumProject\bin\Debug\netcoreapp3.1\SumProject.pdb
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.Form1.resources
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.AssemblyInfo.cs
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.dll
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.pdb
+C:\Users\poker\source\repos\SumProject\obj\Debug\netcoreapp3.1\SumProject.genruntimeconfig.cache

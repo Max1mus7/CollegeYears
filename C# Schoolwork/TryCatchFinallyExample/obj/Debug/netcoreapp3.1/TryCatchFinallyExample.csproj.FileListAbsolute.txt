@@ -1,0 +1,13 @@
+C:\Users\poker\source\repos\TryCatchFinallyExample\bin\Debug\netcoreapp3.1\TryCatchFinallyExample.exe
+C:\Users\poker\source\repos\TryCatchFinallyExample\bin\Debug\netcoreapp3.1\TryCatchFinallyExample.deps.json
+C:\Users\poker\source\repos\TryCatchFinallyExample\bin\Debug\netcoreapp3.1\TryCatchFinallyExample.runtimeconfig.json
+C:\Users\poker\source\repos\TryCatchFinallyExample\bin\Debug\netcoreapp3.1\TryCatchFinallyExample.runtimeconfig.dev.json
+C:\Users\poker\source\repos\TryCatchFinallyExample\bin\Debug\netcoreapp3.1\TryCatchFinallyExample.dll
+C:\Users\poker\source\repos\TryCatchFinallyExample\bin\Debug\netcoreapp3.1\TryCatchFinallyExample.pdb
+C:\Users\poker\source\repos\TryCatchFinallyExample\obj\Debug\netcoreapp3.1\TryCatchFinallyExample.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\TryCatchFinallyExample\obj\Debug\netcoreapp3.1\TryCatchFinallyExample.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\TryCatchFinallyExample\obj\Debug\netcoreapp3.1\TryCatchFinallyExample.AssemblyInfo.cs
+C:\Users\poker\source\repos\TryCatchFinallyExample\obj\Debug\netcoreapp3.1\TryCatchFinallyExample.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\TryCatchFinallyExample\obj\Debug\netcoreapp3.1\TryCatchFinallyExample.dll
+C:\Users\poker\source\repos\TryCatchFinallyExample\obj\Debug\netcoreapp3.1\TryCatchFinallyExample.pdb
+C:\Users\poker\source\repos\TryCatchFinallyExample\obj\Debug\netcoreapp3.1\TryCatchFinallyExample.genruntimeconfig.cache

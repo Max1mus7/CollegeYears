@@ -1,0 +1,12 @@
+C:\Users\poker\source\repos\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+C:\Users\poker\source\repos\AbstractDemo\bin\Debug\AbstractDemo.exe
+C:\Users\poker\source\repos\AbstractDemo\bin\Debug\AbstractDemo.pdb
+C:\Users\poker\source\repos\AbstractDemo\bin\Debug\DemoLibrary.dll
+C:\Users\poker\source\repos\AbstractDemo\bin\Debug\DemoLibrary.pdb
+C:\Users\poker\source\repos\AbstractDemo\obj\Debug\AbstractDemo.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\AbstractDemo\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\AbstractDemo\obj\Debug\AbstractDemo.csproj.CopyComplete
+C:\Users\poker\source\repos\AbstractDemo\obj\Debug\AbstractDemo.exe
+C:\Users\poker\source\repos\AbstractDemo\obj\Debug\AbstractDemo.pdb
+C:\Users\poker\source\repos\AbstractDemo\bin\Debug\AbstractDemo.xml
+C:\Users\poker\source\repos\AbstractDemo\bin\Debug\DemoLibrary.xml

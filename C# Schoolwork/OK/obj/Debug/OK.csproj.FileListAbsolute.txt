@@ -1,0 +1,10 @@
+C:\Users\poker\source\repos\OK\bin\Debug\OK.exe.config
+C:\Users\poker\source\repos\OK\bin\Debug\OK.exe
+C:\Users\poker\source\repos\OK\bin\Debug\OK.pdb
+C:\Users\poker\source\repos\OK\obj\Debug\OK.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\OK\obj\Debug\OK.Form1.resources
+C:\Users\poker\source\repos\OK\obj\Debug\OK.Form2.resources
+C:\Users\poker\source\repos\OK\obj\Debug\OK.Properties.Resources.resources
+C:\Users\poker\source\repos\OK\obj\Debug\OK.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\OK\obj\Debug\OK.exe
+C:\Users\poker\source\repos\OK\obj\Debug\OK.pdb

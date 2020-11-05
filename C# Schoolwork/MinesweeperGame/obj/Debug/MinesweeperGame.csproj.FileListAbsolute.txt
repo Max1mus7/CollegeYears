@@ -1,0 +1,11 @@
+C:\Users\poker\source\repos\MinesweeperGame\bin\Debug\MinesweeperGame.exe.config
+C:\Users\poker\source\repos\MinesweeperGame\bin\Debug\MinesweeperGame.exe
+C:\Users\poker\source\repos\MinesweeperGame\bin\Debug\MinesweeperGame.pdb
+C:\Users\poker\source\repos\MinesweeperGame\bin\Debug\Minesweeper.exe
+C:\Users\poker\source\repos\MinesweeperGame\bin\Debug\Minesweeper.pdb
+C:\Users\poker\source\repos\MinesweeperGame\bin\Debug\Minesweeper.exe.config
+C:\Users\poker\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.csproj.CopyComplete
+C:\Users\poker\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.exe
+C:\Users\poker\source\repos\MinesweeperGame\obj\Debug\MinesweeperGame.pdb

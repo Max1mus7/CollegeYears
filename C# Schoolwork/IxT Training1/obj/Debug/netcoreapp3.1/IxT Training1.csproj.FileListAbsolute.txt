@@ -1,0 +1,11 @@
+C:\Users\poker\source\repos\IxT Training1\bin\Debug\netcoreapp3.1\IxT Training1.exe
+C:\Users\poker\source\repos\IxT Training1\bin\Debug\netcoreapp3.1\IxT Training1.deps.json
+C:\Users\poker\source\repos\IxT Training1\bin\Debug\netcoreapp3.1\IxT Training1.runtimeconfig.json
+C:\Users\poker\source\repos\IxT Training1\bin\Debug\netcoreapp3.1\IxT Training1.runtimeconfig.dev.json
+C:\Users\poker\source\repos\IxT Training1\bin\Debug\netcoreapp3.1\IxT Training1.dll
+C:\Users\poker\source\repos\IxT Training1\bin\Debug\netcoreapp3.1\IxT Training1.pdb
+C:\Users\poker\source\repos\IxT Training1\obj\Debug\netcoreapp3.1\IxT Training1.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\IxT Training1\obj\Debug\netcoreapp3.1\IxT Training1.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\IxT Training1\obj\Debug\netcoreapp3.1\IxT Training1.AssemblyInfo.cs
+C:\Users\poker\source\repos\IxT Training1\obj\Debug\netcoreapp3.1\IxT Training1.dll
+C:\Users\poker\source\repos\IxT Training1\obj\Debug\netcoreapp3.1\IxT Training1.pdb

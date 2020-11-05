@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Activity 4 Form Passing/1.0.0": {
+        "runtime": {
+          "Activity 4 Form Passing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Activity 4 Form Passing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PEO App2", "PEO App2.csproj", "{FC8F3C80-1336-473F-9746-BF28DFFAD48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC8F3C80-1336-473F-9746-BF28DFFAD48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC8F3C80-1336-473F-9746-BF28DFFAD48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC8F3C80-1336-473F-9746-BF28DFFAD48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC8F3C80-1336-473F-9746-BF28DFFAD48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B683DEC-28CB-4112-B6D7-87C44D0966A1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\poker\source\repos\OOCA-3\bin\Debug\OOCA-3.exe.config
+C:\Users\poker\source\repos\OOCA-3\bin\Debug\OOCA-3.exe
+C:\Users\poker\source\repos\OOCA-3\bin\Debug\OOCA-3.pdb
+C:\Users\poker\source\repos\OOCA-3\obj\Debug\OOCA-3.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\OOCA-3\obj\Debug\OOCA_3.Properties.Resources.resources
+C:\Users\poker\source\repos\OOCA-3\obj\Debug\OOCA-3.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\OOCA-3\obj\Debug\OOCA-3.exe
+C:\Users\poker\source\repos\OOCA-3\obj\Debug\OOCA-3.pdb
+C:\Users\poker\source\repos\OOCA-3\obj\Debug\OOCA_3.TextFileScanning.resources

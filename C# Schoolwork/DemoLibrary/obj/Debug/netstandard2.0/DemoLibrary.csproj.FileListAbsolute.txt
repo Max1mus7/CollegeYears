@@ -1,0 +1,10 @@
+C:\Users\poker\source\repos\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.deps.json
+C:\Users\poker\source\repos\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\poker\source\repos\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\poker\source\repos\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.AssemblyInfo.cs
+C:\Users\poker\source\repos\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.dll
+C:\Users\poker\source\repos\DemoLibrary\obj\Debug\netstandard2.0\DemoLibrary.pdb
+C:\Users\poker\source\repos\DemoLibrary\bin\Debug\netstandard2.0\DemoLibrary.xml

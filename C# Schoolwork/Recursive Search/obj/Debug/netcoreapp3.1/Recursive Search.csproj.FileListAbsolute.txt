@@ -1,0 +1,13 @@
+C:\Users\poker\source\repos\Recursive Search\bin\Debug\netcoreapp3.1\Recursive Search.exe
+C:\Users\poker\source\repos\Recursive Search\bin\Debug\netcoreapp3.1\Recursive Search.deps.json
+C:\Users\poker\source\repos\Recursive Search\bin\Debug\netcoreapp3.1\Recursive Search.runtimeconfig.json
+C:\Users\poker\source\repos\Recursive Search\bin\Debug\netcoreapp3.1\Recursive Search.runtimeconfig.dev.json
+C:\Users\poker\source\repos\Recursive Search\bin\Debug\netcoreapp3.1\Recursive Search.dll
+C:\Users\poker\source\repos\Recursive Search\bin\Debug\netcoreapp3.1\Recursive Search.pdb
+C:\Users\poker\source\repos\Recursive Search\obj\Debug\netcoreapp3.1\Recursive Search.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\Recursive Search\obj\Debug\netcoreapp3.1\Recursive Search.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\Recursive Search\obj\Debug\netcoreapp3.1\Recursive Search.AssemblyInfo.cs
+C:\Users\poker\source\repos\Recursive Search\obj\Debug\netcoreapp3.1\Recursive Search.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\Recursive Search\obj\Debug\netcoreapp3.1\Recursive Search.dll
+C:\Users\poker\source\repos\Recursive Search\obj\Debug\netcoreapp3.1\Recursive Search.pdb
+C:\Users\poker\source\repos\Recursive Search\obj\Debug\netcoreapp3.1\Recursive Search.genruntimeconfig.cache

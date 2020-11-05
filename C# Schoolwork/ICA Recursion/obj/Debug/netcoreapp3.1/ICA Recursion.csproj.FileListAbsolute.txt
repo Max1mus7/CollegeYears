@@ -1,0 +1,12 @@
+C:\Users\poker\source\repos\ICA Recursion\bin\Debug\netcoreapp3.1\ICA Recursion.exe
+C:\Users\poker\source\repos\ICA Recursion\bin\Debug\netcoreapp3.1\ICA Recursion.deps.json
+C:\Users\poker\source\repos\ICA Recursion\bin\Debug\netcoreapp3.1\ICA Recursion.runtimeconfig.json
+C:\Users\poker\source\repos\ICA Recursion\bin\Debug\netcoreapp3.1\ICA Recursion.runtimeconfig.dev.json
+C:\Users\poker\source\repos\ICA Recursion\bin\Debug\netcoreapp3.1\ICA Recursion.dll
+C:\Users\poker\source\repos\ICA Recursion\bin\Debug\netcoreapp3.1\ICA Recursion.pdb
+C:\Users\poker\source\repos\ICA Recursion\obj\Debug\netcoreapp3.1\ICA Recursion.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\ICA Recursion\obj\Debug\netcoreapp3.1\ICA Recursion.AssemblyInfo.cs
+C:\Users\poker\source\repos\ICA Recursion\obj\Debug\netcoreapp3.1\ICA Recursion.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\ICA Recursion\obj\Debug\netcoreapp3.1\ICA Recursion.dll
+C:\Users\poker\source\repos\ICA Recursion\obj\Debug\netcoreapp3.1\ICA Recursion.pdb
+C:\Users\poker\source\repos\ICA Recursion\obj\Debug\netcoreapp3.1\ICA Recursion.genruntimeconfig.cache

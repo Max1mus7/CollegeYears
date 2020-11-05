@@ -1,0 +1,10 @@
+C:\Users\poker\source\repos\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe.config
+C:\Users\poker\source\repos\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.exe
+C:\Users\poker\source\repos\CarShopConsoleApp\bin\Debug\CarShopConsoleApp.pdb
+C:\Users\poker\source\repos\CarShopConsoleApp\bin\Debug\CarClassLibrary.dll
+C:\Users\poker\source\repos\CarShopConsoleApp\bin\Debug\CarClassLibrary.pdb
+C:\Users\poker\source\repos\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.csproj.CopyComplete
+C:\Users\poker\source\repos\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.exe
+C:\Users\poker\source\repos\CarShopConsoleApp\obj\Debug\CarShopConsoleApp.pdb

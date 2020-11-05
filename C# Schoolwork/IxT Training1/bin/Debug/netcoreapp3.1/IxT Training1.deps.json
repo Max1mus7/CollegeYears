@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IxT Training1/1.0.0": {
+        "runtime": {
+          "IxT Training1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IxT Training1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

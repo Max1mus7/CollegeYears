@@ -1,0 +1,15 @@
+C:\Users\poker\source\repos\InClassExerciseWk9\bin\Debug\netcoreapp3.1\InClassExerciseWk9.exe
+C:\Users\poker\source\repos\InClassExerciseWk9\bin\Debug\netcoreapp3.1\InClassExerciseWk9.deps.json
+C:\Users\poker\source\repos\InClassExerciseWk9\bin\Debug\netcoreapp3.1\InClassExerciseWk9.runtimeconfig.json
+C:\Users\poker\source\repos\InClassExerciseWk9\bin\Debug\netcoreapp3.1\InClassExerciseWk9.runtimeconfig.dev.json
+C:\Users\poker\source\repos\InClassExerciseWk9\bin\Debug\netcoreapp3.1\InClassExerciseWk9.dll
+C:\Users\poker\source\repos\InClassExerciseWk9\bin\Debug\netcoreapp3.1\InClassExerciseWk9.pdb
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.Form1.resources
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.AssemblyInfo.cs
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.dll
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.pdb
+C:\Users\poker\source\repos\InClassExerciseWk9\obj\Debug\netcoreapp3.1\InClassExerciseWk9.genruntimeconfig.cache
