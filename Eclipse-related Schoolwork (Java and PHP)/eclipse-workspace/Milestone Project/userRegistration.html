@@ -1,0 +1,51 @@
+<!-- 
+	Author: Max Weber
+	File: userRegistration.html
+	Description: This project is an HTML form that allows a user to register
+ -->
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>User Registration Form</title>
+<link rel="stylesheet" href="styling.css">
+</head>
+<body>
+	<ul class="navigation">
+		<li class="navigation"><a href="index.html">Return to Login</a>
+	</ul>
+	<form action="infoHandler.php" method="post">
+	<hr>
+	<h1><span>Create a user here!</span></h1>
+	<hr>
+	<p>
+	<label><strong>First Name:</strong></label>
+	<input type="text" name="firstName">
+	<p>
+	<label><strong>Last Name:</strong></label>
+	<input type="text" name="lastName">
+	<p>
+	<label><strong>Date of Birth:</strong></label>
+	<input type="date" name="birthday">
+	<p>
+	<label><strong>E-mail Address:</strong></label>
+	<input type="text" name="email">
+	<p>
+	<label><strong>Username:</strong></label>
+	<input type="text" name="username">
+	<p>
+	<label><strong>Password</strong></label>
+	<input type="password" name="password">
+	<p>
+	<label><strong>Confirm Password:</strong></label>
+	<input type="password" name="confirmPassword">
+	<p align="center">
+	<input type="submit" name="submission">
+	</p>
+	<hr>
+	<!-- create a list with one element that gives the user the ability to return 
+		to the home page-->
+		
+	</form>
+</body>
+</html>
