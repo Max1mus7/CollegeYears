@@ -116,154 +116,60 @@ namespace Minesweeper
         /// <param name="col">The column of a given cell</param>
         public void RevealSafeNeighbors(int row, int col)
         {
-            try
+
+            if(Grid[row,col].Visited && !Grid[row,col].Checked && Grid[row,col].LiveNeighbors == 0)
             {
-                if (Grid[row, col].Visited)
+                Grid[row, col].Checked = true;
+
+                if(row + 1 < Size)
                 {
-                    if(!Grid[row + 1,col].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row + 1, col].Visited = true;
-                        RevealSafeNeighbors(row + 1, col);
-                    }
+                    Grid[row + 1, col].Visited = true;
+                    RevealSafeNeighbors(row + 1, col);
                 }
-            }
-            catch(System.IndexOutOfRangeException)
-            {
-            }
-
-            try
-            {
-                if (Grid[row, col].Visited)
+                if(row - 1 > -1)
                 {
-                    if (Grid[row, col+1].Live)
-                    {
-                        
-                    }
-                    else if (!Grid[row , col + 1].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row, col+1].Visited = true;
-                        RevealSafeNeighbors(row, col+1);
-                    }
+                    Grid[row - 1, col].Visited = true;
+                    RevealSafeNeighbors(row - 1, col);
                 }
-            }
-            catch (System.IndexOutOfRangeException)
-            {
-            }
-
-            try
-            {
-                if (Grid[row, col].Visited)
+                if(col + 1 < Size)
                 {
-                    if (Grid[row - 1, col].Live)
-                    {
-                        
-                    }
-                    else if (!Grid[row - 1, col].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row - 1, col].Visited = true;
-                        RevealSafeNeighbors(row - 1, col);
-                    }
+                    Grid[row, col + 1].Visited = true;
+                    RevealSafeNeighbors(row, col + 1);
                 }
-            }
-            catch (System.IndexOutOfRangeException)
-            {
-            }
-
-            try
-            {
-                if (Grid[row, col].Visited)
+                if(col - 1 > -1)
                 {
-                    if (Grid[row, col-1].Live)
-                    {
-                        
-                    }
-                    else if (!Grid[row, col - 1].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row, col-1].Visited = true;
-                        RevealSafeNeighbors(row, col-1);
-                    }
+                    Grid[row, col - 1].Visited = true;
+                    RevealSafeNeighbors(row, col-1);
                 }
-            }
-            catch (System.IndexOutOfRangeException)
-            {
-            }
-            try
-            {
-                if (Grid[row, col].Visited)
+                if(row + 1 < Size && col + 1 < Size)
                 {
-                    if (Grid[row + 1, col + 1].Live)
-                    {
-
-                    }
-                    else if (!Grid[row + 1, col + 1].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row + 1, col + 1].Visited = true;
-                        RevealSafeNeighbors(row + 1, col + 1);
-                    }
+                    Grid[row + 1, col + 1].Visited = true;
+                    RevealSafeNeighbors(row + 1, col + 1);
                 }
-            }
-            catch (System.IndexOutOfRangeException)
-            {
-            }
-
-            try
-            {
-                if (Grid[row, col].Visited)
+                if(row + 1 < Size && col - 1 > -1)
                 {
-                    if (Grid[row - 1, col + 1].Live)
-                    {
-
-                    }
-                    else if (!Grid[row - 1, col + 1].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row - 1, col + 1].Visited = true;
-                        RevealSafeNeighbors(row - 1, col + 1);
-                    }
+                    Grid[row + 1, col - 1].Visited = true;
+                    RevealSafeNeighbors(row + 1, col - 1);
                 }
-            }
-            catch (System.IndexOutOfRangeException)
-            {
-            }
-
-            try
-            {
-                if (Grid[row, col].Visited)
+                if(row - 1 > -1 && col + 1 < Size)
                 {
-                    if (Grid[row - 1, col - 1].Live)
-                    {
-
-                    }
-                    else if (!Grid[row - 1, col - 1].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row - 1, col - 1 ].Visited = true;
-                        RevealSafeNeighbors(row - 1, col - 1);
-                    }
+                    Grid[row - 1, col + 1].Visited = true;
+                    RevealSafeNeighbors(row - 1, col + 1);
                 }
-            }
-            catch (System.IndexOutOfRangeException)
-            {
-            }
-
-            try
-            {
-                if (Grid[row, col].Visited)
+                if(row - 1 > -1 && col - 1 > -1)
                 {
-                    if (Grid[row + 1, col - 1].Live)
-                    {
-
-                    }
-                    else if (!Grid[row + 1, col - 1].Visited && Grid[row, col].LiveNeighbors == 0)
-                    {
-                        Grid[row + 1, col - 1].Visited = true;
-                        RevealSafeNeighbors(row + 1, col - 1);
-                    }
+                    Grid[row - 1, col - 1].Visited = true;
+                    RevealSafeNeighbors(row - 1, col - 1);
                 }
-            }
-            catch (System.IndexOutOfRangeException)
-            {
+                
             }
         }
-
+        /// <summary>
+        /// Checks to see if the game has ended in a console version
+        /// </summary>
+        /// <param name="row"></param>
+        /// <param name="col"></param>
+        /// <returns></returns>
         public bool CheckGameEnded(int row, int col)
         {
             if (Grid[row, col].Live && Grid[row, col].Visited)
@@ -285,8 +191,15 @@ namespace Minesweeper
             return true;
         }
 
+        /// <summary>
+        /// Checks to see if the user has succeeded in winning the game or if the user has lost
+        /// </summary>
+        /// <param name="row">The row of the button that was clicked</param>
+        /// <param name="col">The column of the button that was clicked</param>
+        /// <returns></returns>
         public string CheckGUIGameEnded(int row, int col)
         {
+            //if the button that was clicked was a bomb, result in a loss
             if (Grid[row, col].Live && Grid[row, col].Visited)
             {
                 return "loss";
@@ -295,13 +208,14 @@ namespace Minesweeper
             {
                 for (int j = 0; j < Size; j++)
                 {
+                    //if there are still board spaces which have not been visited and are also not bombs, continue the game
                     if (!Grid[i, j].Live && !Grid[i, j].Visited)
                     {
                         return "continue";
                     }
                 }
             }
-            
+            //if all board spaces have been visited that are not also bombs, result in a win
             return "win";
         }
     }

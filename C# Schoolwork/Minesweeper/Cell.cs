@@ -18,6 +18,8 @@ namespace Minesweeper
         //Creates an int to tell how many cells around any given cell are live
         public int LiveNeighbors { get; set; }
 
+        public bool Checked { get; set; }
+
         //Creates a no-args constructor for each cell
         public Cell()
         {
@@ -27,6 +29,7 @@ namespace Minesweeper
             Visited = false;
             Live = false;
             LiveNeighbors = 0;
+            Checked = false;
         }
     }
 }
