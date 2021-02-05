@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Whack-A-Mole/1.0.0": {
+        "runtime": {
+          "Whack-A-Mole.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Whack-A-Mole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

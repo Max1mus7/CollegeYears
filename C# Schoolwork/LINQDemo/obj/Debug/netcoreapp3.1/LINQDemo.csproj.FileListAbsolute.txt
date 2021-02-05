@@ -1,0 +1,13 @@
+C:\Users\poker\source\repos\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.exe
+C:\Users\poker\source\repos\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.deps.json
+C:\Users\poker\source\repos\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.json
+C:\Users\poker\source\repos\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.runtimeconfig.dev.json
+C:\Users\poker\source\repos\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.dll
+C:\Users\poker\source\repos\LINQDemo\bin\Debug\netcoreapp3.1\LINQDemo.pdb
+C:\Users\poker\source\repos\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.AssemblyInfo.cs
+C:\Users\poker\source\repos\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.dll
+C:\Users\poker\source\repos\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.pdb
+C:\Users\poker\source\repos\LINQDemo\obj\Debug\netcoreapp3.1\LINQDemo.genruntimeconfig.cache

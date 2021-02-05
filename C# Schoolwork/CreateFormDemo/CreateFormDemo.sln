@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateForm", "CreateForm\CreateForm.csproj", "{755FB556-D273-43A2-B694-ACE7F276FE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{755FB556-D273-43A2-B694-ACE7F276FE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{755FB556-D273-43A2-B694-ACE7F276FE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{755FB556-D273-43A2-B694-ACE7F276FE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{755FB556-D273-43A2-B694-ACE7F276FE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65F8FB1E-6A7E-457F-A8CA-BE61FE5C6FA7}
+	EndGlobalSection
+EndGlobal

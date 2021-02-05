@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PresentationLayer", "PresentationLayer.csproj", "{ACB30398-799B-4101-B49B-8EB85604D412}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "..\ClassLibrary\BusinessLogic.csproj", "{8DAD31C9-4B49-4171-BB0D-0A6C5FCAE025}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB30398-799B-4101-B49B-8EB85604D412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB30398-799B-4101-B49B-8EB85604D412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB30398-799B-4101-B49B-8EB85604D412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB30398-799B-4101-B49B-8EB85604D412}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DAD31C9-4B49-4171-BB0D-0A6C5FCAE025}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DAD31C9-4B49-4171-BB0D-0A6C5FCAE025}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DAD31C9-4B49-4171-BB0D-0A6C5FCAE025}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DAD31C9-4B49-4171-BB0D-0A6C5FCAE025}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {67797EB6-7FA1-4A84-B280-0ACF6133168B}
+	EndGlobalSection
+EndGlobal

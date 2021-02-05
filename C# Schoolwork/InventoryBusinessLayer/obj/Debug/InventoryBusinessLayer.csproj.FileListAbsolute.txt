@@ -1,0 +1,7 @@
+C:\Users\poker\source\repos\InventoryBusinessLayer\bin\Debug\InventoryBusinessLayer.exe.config
+C:\Users\poker\source\repos\InventoryBusinessLayer\bin\Debug\InventoryBusinessLayer.exe
+C:\Users\poker\source\repos\InventoryBusinessLayer\bin\Debug\InventoryBusinessLayer.pdb
+C:\Users\poker\source\repos\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.exe
+C:\Users\poker\source\repos\InventoryBusinessLayer\obj\Debug\InventoryBusinessLayer.pdb

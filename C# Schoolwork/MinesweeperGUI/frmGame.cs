@@ -21,9 +21,15 @@ namespace MinesweeperGUI
         Stopwatch swGameTime = new Stopwatch();
         //Holds the parent form for later interactions
         frmGamePrep PrepForm { get; set; }
-
+        //keeps track of the size of the board given by the user
         int GameSize { get; set; }
 
+        /// <summary>
+        /// Constructor, takes the original form as a parameter in order to pass to the results form, 
+        /// takes gridSize to specify the size of the Board and of the button grid shown.
+        /// </summary>
+        /// <param name="prepForm"></param>
+        /// <param name="gridSize"></param>
         public frmGame(frmGamePrep prepForm, int gridSize)
         {
             InitializeComponent();
@@ -40,16 +46,22 @@ namespace MinesweeperGUI
             //populate the grid with buttons
             PopulateGrid(gridSize);
             
+            //start the stopwatch and timer
             swGameTime.Start();
             tmrGameTimer.Start();
+            //grant the timer a new tick event
             tmrGameTimer.Tick += TmrGameTimer_Tick;
         }
 
+        /// <summary>
+        /// Updates the label showing the amount of time the game has lasted every tick of the timer
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void TmrGameTimer_Tick(object sender, EventArgs e)
         {
-
             lblGameTime.Text = string.Format("{0:hh\\:mm\\:ss\\:ff}", swGameTime.Elapsed);
-        }
+       }
 
 
         /// <summary>
@@ -85,12 +97,13 @@ namespace MinesweeperGUI
 
                     //give each button a click listener
                     btnGrid[row, col].MouseUp += FrmGame_MouseUp;
+                    
                 }
             }
         }
 
         /// <summary>
-        /// reveals the buttons on the grid and disables the grid on victory/defeat
+        /// Reveals the buttons on the grid as a loss state and disables the grid on defeat
         /// </summary>
         private void RevealGridLoss()
         {
@@ -115,9 +128,13 @@ namespace MinesweeperGUI
                 }
             }
             string message = ("You Lost.");
-            frmResult frmResult = new frmResult(PrepForm, this, message, GameSize);
+            int score = 0;
+            frmResult frmResult = new frmResult(PrepForm, this, message, GameSize, score, swGameTime.Elapsed);
             frmResult.ShowDialog();
         }
+        /// <summary>
+        /// Reveals the board as a win state and disables the grid on victory
+        /// </summary>
         private void RevealGridWin()
         {
             swGameTime.Stop();
@@ -142,7 +159,20 @@ namespace MinesweeperGUI
                 }
             }
             string message = ("You win!\n It took you " + gameTime.Substring(0, 8) + " to complete the game!\n Would you like to play again?");
-            frmResult frmResult = new frmResult(PrepForm, this, message, GameSize);
+            int score;
+            if(GameSize < 16)
+            {
+                score = 50000 - (int)swGameTime.ElapsedMilliseconds;
+            }
+            else if (GameSize < 25)
+            {
+                score = 750000 - (int)swGameTime.ElapsedMilliseconds;
+            }
+            else
+            {
+                score = 50000000 - (int)swGameTime.ElapsedMilliseconds;
+            }
+            frmResult frmResult = new frmResult(PrepForm, this, message, GameSize, score, swGameTime.Elapsed);
             frmResult.ShowDialog();
         }
 
@@ -153,13 +183,14 @@ namespace MinesweeperGUI
         /// <param name="e"></param>
         private void FrmGame_MouseUp(object sender, MouseEventArgs me)
         {
+            //Specifies which button is being chosen
             Button b = (Button)sender;
             string[] location = b.Tag.ToString().Split(',');
             int row = int.Parse(location[0]);
             int col = int.Parse(location[1]);
             
 
-            //Put a flag on a square if the user right clicks(not used/useful until Milestone 5)
+            //Put a flag on a square if the user right clicks
             if (me.Button == System.Windows.Forms.MouseButtons.Right && btnGrid[row,col].BackgroundImage == null)
             {
                 if (!board.Grid[row, col].Visited)
@@ -168,42 +199,57 @@ namespace MinesweeperGUI
                     btnGrid[row, col].BackgroundImageLayout = ImageLayout.Stretch;
                 }
             }
+            //Removes the flag if the button already has a flag on it
             else if(me.Button == System.Windows.Forms.MouseButtons.Right)
             {
                 btnGrid[row, col].BackgroundImage = null;
             }
-            //plays the game if the user left clicks
+            //Plays the game if the user left clicks
             else
             {
-                board.Grid[row, col].Visited = true;
-                
-                if (!board.Grid[row,col].Live)
+                Object s = btnGrid[row, col].BackgroundImage;
+                if (s != null)
                 {
-                    board.RevealSafeNeighbors(row, col);
-                    for (int i = 0; i < board.Size; i++)
+
+                }
+                else
+                {
+                    board.Grid[row, col].Visited = true;
+
+                    if (!board.Grid[row, col].Live)
                     {
-                        for (int j = 0; j < board.Size; j++)
+                        board.RevealSafeNeighbors(row, col);
+                        for (int i = 0; i < board.Size; i++)
                         {
-                            if (board.Grid[i, j].Visited)
+                            for (int j = 0; j < board.Size; j++)
                             {
-                                btnGrid[i, j].Text = "" + board.Grid[i, j].LiveNeighbors;
-                                btnGrid[i, j].BackgroundImage = null;
+                                if (board.Grid[i, j].Visited)
+                                {
+                                    btnGrid[i, j].Text = "" + board.Grid[i, j].LiveNeighbors;
+                                    btnGrid[i, j].BackgroundImage = null;
+                                }
                             }
                         }
                     }
-                }
-                string game = board.CheckGUIGameEnded(row, col);
-                if (game.Equals("loss"))
-                {
-                    RevealGridLoss();
-                }
-                else if(game.Equals("win"))
-                {
-                    RevealGridWin();
+                    //Checks to see if the game has ended
+                    string game = board.CheckGUIGameEnded(row, col);
+                    //If the game is lost, reveal the board as a loss state
+                    if (game.Equals("loss"))
+                    {
+                        RevealGridLoss();
+                    }
+                    //If the game is won, reveal the board as a win state
+                    else if (game.Equals("win"))
+                    {
+                        RevealGridWin();
+                    }
                 }
             }
         }
 
+        /// <summary>
+        /// Resets the board and button grid so the user can play again
+        /// </summary>
         public void ResetBoard()
         {
             board = new Board(GameSize);

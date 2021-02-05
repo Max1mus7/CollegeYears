@@ -1,0 +1,9 @@
+C:\Users\poker\source\repos\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\poker\source\repos\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\poker\source\repos\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\poker\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\poker\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\poker\source\repos\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb

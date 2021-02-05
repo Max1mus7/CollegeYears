@@ -1,0 +1,13 @@
+C:\Users\poker\source\repos\AlterString\bin\Debug\netcoreapp3.1\AlterString.exe
+C:\Users\poker\source\repos\AlterString\bin\Debug\netcoreapp3.1\AlterString.deps.json
+C:\Users\poker\source\repos\AlterString\bin\Debug\netcoreapp3.1\AlterString.runtimeconfig.json
+C:\Users\poker\source\repos\AlterString\bin\Debug\netcoreapp3.1\AlterString.runtimeconfig.dev.json
+C:\Users\poker\source\repos\AlterString\bin\Debug\netcoreapp3.1\AlterString.dll
+C:\Users\poker\source\repos\AlterString\bin\Debug\netcoreapp3.1\AlterString.pdb
+C:\Users\poker\source\repos\AlterString\obj\Debug\netcoreapp3.1\AlterString.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\AlterString\obj\Debug\netcoreapp3.1\AlterString.AssemblyInfoInputs.cache
+C:\Users\poker\source\repos\AlterString\obj\Debug\netcoreapp3.1\AlterString.AssemblyInfo.cs
+C:\Users\poker\source\repos\AlterString\obj\Debug\netcoreapp3.1\AlterString.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\AlterString\obj\Debug\netcoreapp3.1\AlterString.dll
+C:\Users\poker\source\repos\AlterString\obj\Debug\netcoreapp3.1\AlterString.pdb
+C:\Users\poker\source\repos\AlterString\obj\Debug\netcoreapp3.1\AlterString.genruntimeconfig.cache

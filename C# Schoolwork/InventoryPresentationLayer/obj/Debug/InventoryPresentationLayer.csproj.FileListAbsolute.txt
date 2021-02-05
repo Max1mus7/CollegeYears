@@ -1,0 +1,14 @@
+C:\Users\poker\source\repos\InventoryPresentationLayer\bin\Debug\InventoryPresentationLayer.exe.config
+C:\Users\poker\source\repos\InventoryPresentationLayer\bin\Debug\InventoryPresentationLayer.exe
+C:\Users\poker\source\repos\InventoryPresentationLayer\bin\Debug\InventoryPresentationLayer.pdb
+C:\Users\poker\source\repos\InventoryPresentationLayer\bin\Debug\InventoryBusinessLayer.exe
+C:\Users\poker\source\repos\InventoryPresentationLayer\bin\Debug\InventoryBusinessLayer.pdb
+C:\Users\poker\source\repos\InventoryPresentationLayer\bin\Debug\InventoryBusinessLayer.exe.config
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.csprojAssemblyReference.cache
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.Form1.resources
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.Properties.Resources.resources
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.csproj.GenerateResource.cache
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.csproj.CopyComplete
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.exe
+C:\Users\poker\source\repos\InventoryPresentationLayer\obj\Debug\InventoryPresentationLayer.pdb

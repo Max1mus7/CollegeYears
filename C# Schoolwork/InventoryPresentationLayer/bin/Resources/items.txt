@@ -1,0 +1,100 @@
+1,Overhold,32.87,magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum
+2,Zontrax,72.8,vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere
+3,Aerified,46.61,at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam
+4,Alpha,87.08,justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum
+5,Zamit,60.7,quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit lacinia
+6,Bigtax,86.59,et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat
+7,Viva,39.59,mauris morbi non lectus aliquam sit amet diam in magna bibendum imperdiet nullam orci pede venenatis
+8,Keylex,8.16,ante ipsum primis in faucibus orci luctus et ultrices posuere
+9,Duobam,81.2,augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula
+10,Fix San,9.33,aenean sit amet justo morbi ut odio cras mi pede malesuada in imperdiet et commodo vulputate justo in
+11,Cookley,99.43,erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla
+12,Tin,5.62,vehicula consequat morbi a ipsum integer a nibh in quis justo maecenas
+13,Subin,3.6,leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede
+14,Sub-Ex,36.55,odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus
+15,Rank,53.49,adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien
+16,Sub-Ex,42.95,diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget
+17,Tempsoft,68.18,morbi vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien
+18,Mat Lam Tam,66.03,rhoncus mauris enim leo rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor
+19,Mat Lam Tam,64.8,lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque
+20,Toughjoyfax,89.31,turpis enim blandit mi in porttitor pede justo eu massa donec dapibus duis
+21,Fixflex,26.09,in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu
+22,Domainer,93.76,tortor id nulla ultrices aliquet maecenas leo odio condimentum id
+23,Zaam-Dox,61.65,sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in
+24,Latlux,3.82,curabitur at ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis
+25,Wrapsafe,14.77,orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh
+26,Stronghold,88.6,quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer a nibh
+27,Aerified,43.23,augue luctus tincidunt nulla mollis molestie lorem quisque ut erat
+28,Keylex,90.0,pede justo eu massa donec dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst
+29,Alpha,73.99,nunc proin at turpis a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut
+30,Latlux,4.11,libero ut massa volutpat convallis morbi odio odio elementum eu
+31,Rank,14.15,donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+32,Cardguard,94.98,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum
+33,Transcof,3.71,pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat
+34,Y-find,29.78,posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend
+35,Holdlamis,95.8,tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed interdum venenatis turpis enim
+36,Tin,40.74,tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at
+37,Redhold,2.41,nisi vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum
+38,Home Ing,67.93,a pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante
+39,Cookley,49.47,lobortis ligula sit amet eleifend pede libero quis orci nullam molestie nibh
+40,Alpha,64.91,scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc
+41,Gembucket,65.33,augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse
+42,Otcom,96.23,eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a libero nam dui
+43,Vagram,92.11,erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla ac enim
+44,Sonair,7.3,nisl ut volutpat sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in
+45,Home Ing,67.19,ut erat curabitur gravida nisi at nibh in hac habitasse platea dictumst aliquam
+46,Toughjoyfax,87.12,vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam sit amet turpis elementum ligula
+47,Span,32.31,elit proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus
+48,Domainer,16.49,congue eget semper rutrum nulla nunc purus phasellus in felis
+49,Stim,39.29,non mi integer ac neque duis bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui
+50,Overhold,99.92,ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in
+51,Stringtough,18.93,in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam varius
+52,Greenlam,43.98,auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis sed
+53,Aerified,31.92,sit amet lobortis sapien sapien non mi integer ac neque duis bibendum morbi non quam nec dui
+54,Otcom,9.84,vitae quam suspendisse potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum
+55,Sub-Ex,67.08,vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit
+56,Stim,87.14,sem praesent id massa id nisl venenatis lacinia aenean sit amet justo morbi
+57,Viva,7.1,ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac
+58,Bitwolf,38.56,in quis justo maecenas rhoncus aliquam lacus morbi quis tortor
+59,Prodder,81.97,elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit
+60,Namfix,40.48,sagittis nam congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis
+61,Mat Lam Tam,66.56,tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna
+62,Bamity,55.65,ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum
+63,Zoolab,51.54,mattis egestas metus aenean fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend
+64,Redhold,1.88,vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque erat eros viverra eget congue eget semper
+65,Latlux,26.45,a libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at
+66,Zaam-Dox,62.08,felis eu sapien cursus vestibulum proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing
+67,Mat Lam Tam,51.18,tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl
+68,Trippledex,86.95,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus etiam vel augue vestibulum rutrum
+69,Sonair,99.27,volutpat erat quisque erat eros viverra eget congue eget semper rutrum nulla nunc purus phasellus
+70,Biodex,42.97,nullam varius nulla facilisi cras non velit nec nisi vulputate
+71,Redhold,25.48,bibendum morbi non quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh
+72,Voyatouch,77.94,tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac neque duis bibendum
+73,Treeflex,50.68,magna at nunc commodo placerat praesent blandit nam nulla integer
+74,Andalax,1.56,rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas leo
+75,Alphazap,12.6,proin eu mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis
+76,Zoolab,36.49,nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc
+77,Voltsillam,80.98,lorem ipsum dolor sit amet consectetuer adipiscing elit proin risus praesent lectus vestibulum
+78,Zontrax,20.27,quam sapien varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus
+79,Wrapsafe,21.15,integer aliquet massa id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi
+80,Fixflex,32.89,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero
+81,Biodex,50.79,curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend
+82,Lotlux,97.16,interdum mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor
+83,Konklab,28.82,mauris vulputate elementum nullam varius nulla facilisi cras non velit nec
+84,Konklux,30.37,ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur
+85,Alpha,51.74,libero nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut
+86,Viva,1.24,dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi vestibulum
+87,Duobam,73.5,vestibulum velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo
+88,Konklux,93.73,pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis
+89,Voyatouch,95.95,neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum
+90,Voyatouch,9.26,et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et
+91,Konklab,85.62,viverra eget congue eget semper rutrum nulla nunc purus phasellus in felis donec semper sapien a
+92,Ventosanzap,24.76,fermentum donec ut mauris eget massa tempor convallis nulla neque libero convallis eget eleifend
+93,Fintone,99.16,eget nunc donec quis orci eget orci vehicula condimentum curabitur in libero ut massa volutpat convallis morbi
+94,Tampflex,10.98,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec
+95,Ronstring,32.01,cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor
+96,Asoka,11.55,non pretium quis lectus suspendisse potenti in eleifend quam a odio in hac habitasse platea dictumst maecenas ut
+97,Cookley,4.92,sapien cum sociis natoque penatibus et magnis dis parturient montes nascetur
+98,Alpha,32.9,lorem integer tincidunt ante vel ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent
+99,Tin,78.86,mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel
+100,Home Ing,79.85,vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat
